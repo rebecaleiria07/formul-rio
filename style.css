@@ -1,8 +1,8 @@
-body{
-  background: blue; 
+body {
+  background: white;
 }
 
-form label{ 
+form label{
   display: block;
   font-size: 20px;
 }
@@ -10,8 +10,8 @@ form label{
 td {
 
 border: 1px solid #000000;
-  fonte-size:30px;
+  font-size:30px;
+
 border-color: cor;
 
 }
-
